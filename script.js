@@ -3,7 +3,9 @@ function addingEventListener() {
 const input = document.getElementById('button');
 
 function clickAlert() {
-    alert('SOOOO SICK');
+    alert('Fallow the little white rabbit');
 }
 
 input.addEventListener('click', clickAlert);
+
+
